@@ -4,7 +4,7 @@ public class Homem implements Pessoa{
 	{
 		while(true)
 		{
-			System.out.println("FUI LARGADO POR MAIS UMA NAMORADA PQ SOU OT¡RIO! :(");
+			System.out.println("FUI LARGADO POR MAIS UMA NAMORADA PQ SOU OT√ÅRIO! :(");
 			try {
 				wait(3000);
 			} catch (InterruptedException e) {

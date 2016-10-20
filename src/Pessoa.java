@@ -1,4 +1,5 @@
 
-public interface Pessoa extends Runnable{
-
+public interface Pessoa extends Runnable
+{
+	
 }
